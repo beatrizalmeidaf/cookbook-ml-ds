@@ -8,32 +8,32 @@ O repositório está estruturado para fornecer um estudo sistemático dos tutori
 
 ## 📖 Conteúdo por Capítulo
 
-**Fundamentos de Manipulação de Dados**
-    - [X] **Capítulo 1:** Vetores, Matrizes e Arrays
-    - [ ] **Capítulo 2:** Carregamento de Dados
-    - [ ] **Capítulo 3:** Organização de Dados
-    - [ ] **Capítulo 4:** Manipulando Dados Numéricos
-    - [ ] **Capítulo 5:** Manipulando Dados Categóricos
-    - [ ] **Capítulo 6:** Tratamento de Texto
-    - [ ] **Capítulo 7:** Manipulando Datas
-    - [ ] **Capítulo 8:** Tratamento de Imagens
-  
-**Engenharia de Features e Avaliação de Modelos**
-    - [ ] **Capítulo 9:** Redução de Dimensionalidade (Feature Extraction)
-    - [ ] **Capítulo 10:** Redução de Dimensionalidade (Feature Selection)
-    - [ ] **Capítulo 11:** Avaliação do Modelo
-    - [ ] **Capítulo 12:** Seleção de Modelo
-  
-**Modelos de Machine Learning**
-    - [ ] **Capítulo 13:** Regressão Linear
-    - [ ] **Capítulo 14:** Árvores e Florestas
-    - [ ] **Capítulo 15:** KNN
-    - [ ] **Capítulo 16:** Regressão Logistica
-    - [ ] **Capítulo 17:** SVM
-    - [ ] **Capítulo 18:** Naive Bayes
-    - [ ] **Capítulo 19:** Clusterização
-    - [ ] **Capítulo 20:** Redes Neurais
-    - [ ] **Capítulo 21:** Salvando e Carregando Modelos Treinados
+### Fundamentos de Manipulação de Dados
+- [X] **Capítulo 1:** Vetores, Matrizes e Arrays
+- [ ] **Capítulo 2:** Carregamento de Dados
+- [ ] **Capítulo 3:** Organização de Dados
+- [ ] **Capítulo 4:** Manipulando Dados Numéricos
+- [ ] **Capítulo 5:** Manipulando Dados Categóricos
+- [ ] **Capítulo 6:** Tratamento de Texto
+- [ ] **Capítulo 7:** Manipulando Datas
+- [ ] **Capítulo 8:** Tratamento de Imagens
+
+### Engenharia de Features e Avaliação de Modelos
+- [ ] **Capítulo 9:** Redução de Dimensionalidade (Feature Extraction)
+- [ ] **Capítulo 10:** Redução de Dimensionalidade (Feature Selection)
+- [ ] **Capítulo 11:** Avaliação do Modelo
+- [ ] **Capítulo 12:** Seleção de Modelo
+
+### Modelos de Machine Learning
+- [ ] **Capítulo 13:** Regressão Linear
+- [ ] **Capítulo 14:** Árvores e Florestas
+- [ ] **Capítulo 15:** KNN
+- [ ] **Capítulo 16:** Regressão Logística
+- [ ] **Capítulo 17:** SVM
+- [ ] **Capítulo 18:** Naive Bayes
+- [ ] **Capítulo 19:** Clusterização
+- [ ] **Capítulo 20:** Redes Neurais
+- [ ] **Capítulo 21:** Salvando e Carregando Modelos Treinados
 
 ## 🚀 Como Utilizar
 1. Clone esse repositório para o seu ambiente local:
