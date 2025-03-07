@@ -36,7 +36,7 @@ O repositório está estruturado para fornecer um estudo sistemático dos tutori
     - [ ] **Capítulo 21:** Salvando e Carregando Modelos Treinados
 
 ## 🚀 Como Utilizar
-1. Clone este repositório para o seu ambiente local:
+1. Clone esse repositório para o seu ambiente local:
    ```bash
    git clone https://github.com/beatrizalmeidaf/cookbook-ml-ds.git
    ```
