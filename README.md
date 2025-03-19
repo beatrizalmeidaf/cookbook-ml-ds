@@ -10,10 +10,10 @@ O repositório está estruturado para fornecer um estudo sistemático dos tutori
 
 ### Fundamentos de Manipulação de Dados
 - [X] **Capítulo 1:** Vetores, Matrizes e Arrays
-- [ ] **Capítulo 2:** Carregamento de Dados
-- [ ] **Capítulo 3:** Organização de Dados
-- [ ] **Capítulo 4:** Manipulando Dados Numéricos
-- [ ] **Capítulo 5:** Manipulando Dados Categóricos
+- [X] **Capítulo 2:** Carregamento de Dados
+- [X] **Capítulo 3:** Organização de Dados
+- [X] **Capítulo 4:** Manipulando Dados Numéricos
+- [X] **Capítulo 5:** Manipulando Dados Categóricos
 - [ ] **Capítulo 6:** Tratamento de Texto
 - [ ] **Capítulo 7:** Manipulando Datas
 - [ ] **Capítulo 8:** Tratamento de Imagens
