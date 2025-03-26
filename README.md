@@ -14,7 +14,7 @@ O repositório está estruturado para fornecer um estudo sistemático dos tutori
 - [X] **Capítulo 3:** Organização de Dados
 - [X] **Capítulo 4:** Manipulando Dados Numéricos
 - [X] **Capítulo 5:** Manipulando Dados Categóricos
-- [ ] **Capítulo 6:** Tratamento de Texto
+- [X] **Capítulo 6:** Tratamento de Texto
 - [ ] **Capítulo 7:** Manipulando Datas
 - [ ] **Capítulo 8:** Tratamento de Imagens
 
