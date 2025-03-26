@@ -15,8 +15,8 @@ O repositório está estruturado para fornecer um estudo sistemático dos tutori
 - [X] **Capítulo 4:** Manipulando Dados Numéricos
 - [X] **Capítulo 5:** Manipulando Dados Categóricos
 - [X] **Capítulo 6:** Tratamento de Texto
-- [ ] **Capítulo 7:** Manipulando Datas
-- [ ] **Capítulo 8:** Tratamento de Imagens
+- [X] **Capítulo 7:** Manipulando Datas
+- [X] **Capítulo 8:** Tratamento de Imagens
 
 ### Engenharia de Features e Avaliação de Modelos
 - [ ] **Capítulo 9:** Redução de Dimensionalidade (Feature Extraction)
