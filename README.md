@@ -19,7 +19,7 @@ O repositório está estruturado para fornecer um estudo sistemático dos tutori
 - [X] **Capítulo 8:** Tratamento de Imagens
 
 ### Engenharia de Features e Avaliação de Modelos
-- [ ] **Capítulo 9:** Redução de Dimensionalidade (Feature Extraction)
+- [X] **Capítulo 9:** Redução de Dimensionalidade (Feature Extraction)
 - [ ] **Capítulo 10:** Redução de Dimensionalidade (Feature Selection)
 - [ ] **Capítulo 11:** Avaliação do Modelo
 - [ ] **Capítulo 12:** Seleção de Modelo
