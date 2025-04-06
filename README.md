@@ -1,4 +1,4 @@
-# Data Science e Machine Learning: Estudos Avançados 🚀
+# Data Science e Machine Learning 🚀
 
 Esse repositório contém implementações detalhadas e anotações baseadas no livro [Machine Learning with Python Cookbook](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/) de **Chris Albon**. O objetivo é consolidar técnicas essenciais de **Data Science** e **Machine Learning**, com foco na aplicação prática e na compreensão aprofundada dos conceitos.
 
