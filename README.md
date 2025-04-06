@@ -21,7 +21,7 @@ O repositório está estruturado para fornecer um estudo sistemático dos tutori
 ### Engenharia de Features e Avaliação de Modelos
 - [X] **Capítulo 9:** Redução de Dimensionalidade (Feature Extraction)
 - [X] **Capítulo 10:** Redução de Dimensionalidade (Feature Selection)
-- [ ] **Capítulo 11:** Avaliação do Modelo
+- [X] **Capítulo 11:** Avaliação do Modelo
 - [ ] **Capítulo 12:** Seleção de Modelo
 
 ### Modelos de Machine Learning
