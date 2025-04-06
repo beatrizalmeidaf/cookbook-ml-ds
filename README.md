@@ -22,18 +22,7 @@ O repositório está estruturado para fornecer um estudo sistemático dos tutori
 - [X] **Capítulo 9:** Redução de Dimensionalidade (Feature Extraction)
 - [X] **Capítulo 10:** Redução de Dimensionalidade (Feature Selection)
 - [X] **Capítulo 11:** Avaliação do Modelo
-- [ ] **Capítulo 12:** Seleção de Modelo
-
-### Modelos de Machine Learning
-- [ ] **Capítulo 13:** Regressão Linear
-- [ ] **Capítulo 14:** Árvores e Florestas
-- [ ] **Capítulo 15:** KNN
-- [ ] **Capítulo 16:** Regressão Logística
-- [ ] **Capítulo 17:** SVM
-- [ ] **Capítulo 18:** Naive Bayes
-- [ ] **Capítulo 19:** Clusterização
-- [ ] **Capítulo 20:** Redes Neurais
-- [ ] **Capítulo 21:** Salvando e Carregando Modelos Treinados
+- [X] **Capítulo 12:** Seleção de Modelo
 
 ## 🚀 Como Utilizar
 1. Clone esse repositório para o seu ambiente local:
